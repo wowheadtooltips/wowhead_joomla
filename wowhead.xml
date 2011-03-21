@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system">
+	<name>System - Wowhead Tooltip BBCode Parser</name>
+	<author>Adam Koch</author>
+	<creationDate>February 2009</creationDate>
+	<copyright>Copyright (C) 2009 Adam Koch. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>tooltips@crackpot.ws</authorEmail>
+	<authorUrl>wowhead.crackpot.ws</authorUrl>
+	<version>1.0</version>
+	<description>Installs the Wowhead parser on your Joomla site.</description>
+	<files>
+		<filename plugin="wowhead">wowhead.php</filename>
+		<folder>wowhead</folder>
+	</files>
+	<params/>
+</install>
